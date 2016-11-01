@@ -22,17 +22,8 @@ processdialog::~processdialog()
 {
 
     qDebug()<< "git";
-    qDebug() << "echo";
-    qDebug() << "echo";
-    qDebug() << "hrllo";
-    qDebug() << "baba";
-    qDebug() << "mama";
-    qDebug() << "mama";
-    qDebug() << "mama";
-    qDebug() << "mama";
-    qDebug() << "mama";
-
-
+///只commit，没有add，使用git checkout -- filename 退回到原来的状态
+    qDebug() << "hahha";
 
 }
 
